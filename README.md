@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fbinary-code&psig=AOvVaw39qepKw-7I8-tP8cpYx9E5&ust=1715350230356000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCu2enfgIYDFQAAAAAdAAAAABAE)
+
 <h1 align="center">Hi_______________<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Divya Jyoti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div style="display: flex; justify-content: center; align-items: center;">
